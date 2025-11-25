@@ -45,9 +45,13 @@ p {
   color: #fff; }
   .sidebar-wrapper a {
     color: #fff; }
-.sidebar-wrapper .profile-container .photo{
+.sidebar-wrapper .profile-pic .photo{
   width:100%;
-  height:100%;
+  border-radius: 10%;
+  padding-left:20px;
+  padding-right:20px;
+  padding-top:30px;
+  paddind-bottom:10px;
 }
   .sidebar-wrapper .profile-container {
     padding: 30px;
